@@ -1,4 +1,4 @@
-//by the way I havent tested or debugged this or anything yet, so fi it doesn't work for you, don't be mad at me.
+//by the way I havent tested or debugged this or anything yet, so if it doesn't work for you, don't be mad at me.
 
 using System;
 using System.Security.Cryptography;
